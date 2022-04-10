@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="798dbad4-173a-4f2c-8fce-7a92d4fdf746" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/constants/metadata/Metadata.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_api_common_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_client_google_api_client_1_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_httpjson_0_36_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_1_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_iam_v1_0_1_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_apis_google_api_services_storage_v1_rev114_1_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auth_google_auth_library_credentials_0_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auth_google_auth_library_oauth2_http_0_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_1_17_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_http_1_17_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_storage_1_17_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_1_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_appengine_1_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_jackson2_1_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_jackson_1_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_oauth_client_google_oauth_client_1_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_util_3_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_api_0_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_http_util_0_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_threeten_threetenbp_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Directory/School/campus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Directory/School/campus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Directory/University/student.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Directory/University/student.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Directory/University/teacher.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Directory/University/teacher.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Directory/courses/g.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Directory/courses/g.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Directory/courses/j.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Directory/courses/j.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logs/EventLogs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logs/EventLogs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logs/GenralLogs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logs/GenralLogs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logs/LogWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logs/LogWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logs/QueryLogs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logs/QueryLogs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constants/dalhousie/table_name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constants/new_ui/table_new.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/CreateDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/CreateDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/CreateTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/CreateTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/DeleteRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/DeleteRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/InsertIntoTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/InsertIntoTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/SelectFromTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/SelectFromTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/UpdateColumn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/UpdateColumn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crud/UseDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crud/UseDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/export/SQLdump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/export/SQLdump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/register/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/register/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Logs/LogWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crud/CreateDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crud/CreateTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crud/DataBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crud/DeleteRow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crud/InsertIntoTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crud/Operations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crud/Path.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crud/SelectFromTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crud/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crud/UpdateColumn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crud/UseDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/register/Registration.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="27cRvZyHCMh76MN4YSinirnnrTB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="798dbad4-173a-4f2c-8fce-7a92d4fdf746" name="Changes" comment="" />
+      <created>1649617620920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649617620920</updated>
+    </task>
+    <servers />
+  </component>
+</project>

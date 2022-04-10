@@ -1,0 +1,85 @@
+  Operation :USE use courses
+  Operation :SELECT select * from j
+  Operation :INSERT INTO insert into j (j1,j2,j3) values (1,2,3)
+  Operation :CREATE SCHEMA create schema testschema
+  Operation :USE use testschema
+  Operation :CREATE TABLE create table testtable (tt1,tt2,tt3)
+2022/04/09 15:03:27 aayushi Operation :USE use courses
+2022/04/09 15:03:27 aayushi Operation :SELECT select * from j
+2022/04/09 15:03:27 aayushi Operation :UPDATE update j set j1 = 1000 where j1 = 2
+2022/04/09 15:03:27 aayushi Operation :DELETE delete from j where j1 = 1
+2022/04/09 15:03:27 aayushi Operation :SELECT select j2 from j where j1 = '1'
+2022/04/09 15:03:27 aayushi Operation :USE use courses
+2022/04/09 15:32:40 subash Operation :USE use courses
+2022/04/09 15:32:40 subash Operation :USE use school
+2022/04/09 15:32:40 subash Operation :SELECT select * from campus
+2022/04/09 15:41:42 subash Operation :USE use schema university
+2022/04/09 15:41:42 subash Operation :SELECT select * from students
+2022/04/09 15:41:42 subash Operation :SELECT select * from student
+2022/04/09 16:53:01 subash Operation :CREATE SCHEMA : create schema test, Status :Failed Query
+2022/04/09 16:57:19 subash Operation :CREATE SCHEMA : create schema test, Status :Failed Query
+2022/04/09 16:57:19 subash Operation :CREATE SCHEMA : create schema newdb, Status :Valid query
+2022/04/09 17:01:25 subash Operation :USE use courses, Status :Valid query
+2022/04/09 17:02:04 subash Operation :INSERT INTO insert into g (g1,g2,g3) values (1,2,3), Status :Valid query
+2022/04/09 18:48:14 subash Operation :USE use courses, Status :Valid query
+2022/04/09 18:48:45 subash Operation :SELECT : select * from g, Status :Valid query
+2022/04/09 18:54:07 subash Operation :USE use school, Status :Valid query
+2022/04/09 18:59:05 subash Operation :USE use school, Status :Valid query
+2022/04/09 19:01:12 subash Operation :USE use school, Status :Valid query
+2022/04/09 19:03:40 subash Operation :USE use school, Status :Valid query
+2022/04/09 19:09:38 subash Operation :USE use schema school, Status :Valid query
+2022/04/09 19:09:38 subash Operation :DELETE : delete from campus where id = v1, Status :Failed Query
+2022/04/09 19:11:34 subash Operation :USE use schema school, Status :Valid query
+2022/04/09 19:11:34 subash Operation :DELETE : delete from campus where id = v1, Status :Failed Query
+2022/04/09 19:19:51 subash Operation :USE use schema school, Status :Valid query
+2022/04/09 19:19:51 subash Operation :DELETE : delete from campus where id = v1, Status :Failed Query
+2022/04/09 19:53:30 subash Operation :USE use school, Status :Valid query
+2022/04/09 19:53:30 subash Operation :DELETE : delete from school where id = v1, Status :Failed Query
+2022/04/09 20:03:56 subash Operation :USE use courses, Status :Valid query
+2022/04/09 20:08:28 subash Operation :USE use courses, Status :Valid query
+2022/04/09 20:10:50 subash Operation :USE use courses, Status :Valid query
+2022/04/09 20:41:52 subash Operation :CREATE SCHEMA : create schema finaltesting, Status :Valid query
+2022/04/09 20:42:55 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 20:42:55 subash Operation :CREATE TABLE create table ft (ft1,ft2,ft3), Status :Valid query
+2022/04/09 20:48:01 subash Operation :USE use finaltesting , Status :Valid query
+2022/04/09 20:48:37 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 20:48:37 subash Operation :CREATE TABLE create table ft (ft1,ft2,ft3), Status :Valid query
+2022/04/09 20:51:56 subash Operation :USE use finaltesting', Status :Failed Query
+2022/04/09 20:52:02 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 20:52:02 subash Operation :CREATE TABLE create table ft (ft1,ft2,ft3), Status :Valid query
+2022/04/09 20:55:49 subash Operation :INSERT INTO : insert into table ft (ft1,ft2,ft3) values (12,34,45), Status :Failed Query
+2022/04/09 21:00:08 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 21:00:08 subash Operation :CREATE TABLE create table ft (ft1,ft2,ft3), Status :Valid query
+2022/04/09 21:06:37 subash Operation :INSERT INTO : insert into ft (ft1,ft2,ft3) values (12,23,345), Status :Valid query
+2022/04/09 21:12:09 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 21:12:09 subash Operation :CREATE TABLE create table ft (ft1,ft2,ft3), Status :Valid query
+2022/04/09 21:15:20 subash Operation :INSERT INTO : insert into ft (ft1,ft2,ft3) values (1,2,3), Status :Valid query
+2022/04/09 21:17:25 subash Operation :INSERT INTO : insert into ft (ft1,ft2,ft3) values (a,b,c), Status :Valid query
+2022/04/09 21:21:43 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 21:24:48 subash Operation :INSERT INTO : insert into ft (ft1,ft2,ft3) values (1,2,3), Status :Valid query
+2022/04/09 21:31:18 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 21:31:44 subash Operation :INSERT INTO : insert into ft (ft1,ft2,ft3) values (23,34,45), Status :Valid query
+2022/04/09 21:32:31 subash Operation :INSERT INTO : insert into ft (ft1,ft2,ft3) values (op,io,ui), Status :Valid query
+2022/04/09 21:34:08 subash Operation :UPDATE : update ft set ft1 = 9080 where ft1 = op, Status :Valid query
+2022/04/09 21:35:27 subash Operation :DELETE : delete from ft where ft1 = 23, Status :Valid query
+2022/04/09 21:35:56 subash Operation :SELECT : select * from ft, Status :Valid query
+2022/04/09 21:36:40 subash Operation : select ft1 from ft where ft2 = 34, Status :Failed Query
+2022/04/09 21:37:41 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 21:37:56 subash Operation :SELECT : select ft1 from ft where ft2 = 34, Status :Valid query
+2022/04/09 21:40:41 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 21:42:18 subash Operation :INSERT INTO : insert into ft (ft1,ft2,ft3) values (100,909,0989), Status :Valid query
+2022/04/09 21:44:08 subash Operation :UPDATE : update ft set ft2 = 90 where ft1 = 34, Status :Failed Query
+2022/04/09 21:49:04 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 21:49:38 subash Operation :INSERT INTO : insert into ft (ft1,ft2,ft3) values (120912,192819,192719), Status :Valid query
+2022/04/09 21:50:17 subash Operation :UPDATE : update ft set ft1 = 10 where ft3 = 192719, Status :Valid query
+2022/04/09 21:55:57 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 21:56:50 subash Operation :UPDATE : update ft set ft3 = 999 where ft1 = 120912, Status :Valid query
+2022/04/09 22:00:14 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 22:01:08 subash Operation :UPDATE : update ft set ft1 = 0909 where ft3 = 192819, Status :Failed Query
+2022/04/09 22:06:40 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 22:07:38 subash Operation :UPDATE : update ft set ft1 = ui where ft3 = 192819, Status :Failed Query
+2022/04/09 22:09:08 subash Operation :UPDATE : update ft set ft3 = ii where ft2 = io, Status :Valid query
+2022/04/09 22:10:01 subash Operation :UPDATE : update ft set ft2 = 00 where ft1 = 999, Status :Valid query
+2022/04/09 22:10:50 subash Operation :USE use finaltesting, Status :Valid query
+2022/04/09 22:11:33 subash Operation :UPDATE : update ft set ft1 = pp where ft2 = 77, Status :Failed Query
+2022/04/09 22:12:21 subash Operation :UPDATE : update ft set ft1 = 88 where ft2 = 34, Status :Valid query
